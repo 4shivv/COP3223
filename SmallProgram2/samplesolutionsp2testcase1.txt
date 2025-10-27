@@ -1,0 +1,13 @@
+----------------------------------------------------------------------
+Testing Test Case 1
+----------------------------------------------------------------------
+Enter the value for a: Enter the value for b: If a = 1.400 and b = 5.200, then that means the hypotenuse is 5.385.
+Hello Luis!
+Thank you for considering Hertz for your car rental needs.
+You have asked to compare prices for three vehicles.
+Please enter the number of days you plan to rent the vehicle: Here are the prices excluding tax.
+Tesla Model 3 Standard Range: $232.40
+Chevrolet Malibu: $247.65
+Nissan Rogue: $253.60
+Enter the seconds: 70000 seconds is 19 hours, 26 minutes, and 40 seconds.
+Enter the value for n: The function computes the value -24.318.

@@ -1,0 +1,134 @@
+----------------------------------------------------------------------
+Testing Test Case 4
+----------------------------------------------------------------------
+Enter a positive integer: Enter a positive integer: Enter a positive integer: That's a negative number!
+Enter a positive integer: That's a negative number!
+Enter a positive integer: That's a negative number!
+Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: 0 even numbers were entered and the average is 0.000000
+5 odd numbers were entered and the average is 3.800000
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: ********************
+**                 *
+* *                *
+*  *               *
+*   *              *
+*    *             *
+*     *            *
+*      *           *
+*       *          *
+*        *         *
+*         *        *
+*          *       *
+*           *      *
+*            *     *
+*             *    *
+*              *   *
+*               *  *
+*                * *
+*                 **
+********************
+Welcome to the Toy Phone!
+Enter a button: Goodbye!
+Enter the number years to observe: Enter the percentage rate to increase by per year: Current Tuition: $20000.00
+Year 1: $20200.00
+Year 2: $20402.00
+Year 3: $20606.02
+Year 4: $20812.08
+Year 5: $21020.20
+Year 6: $21230.40
+Year 7: $21442.71
+Year 8: $21657.13
+Year 9: $21873.71
+Year 10: $22092.44
+Year 11: $22313.37
+Year 12: $22536.50
+Year 13: $22761.87
+Year 14: $22989.48
+Year 15: $23219.38
+Year 16: $23451.57
+Year 17: $23686.09
+Year 18: $23922.95
+Year 19: $24162.18
+Year 20: $24403.80
+Year 21: $24647.84
+Year 22: $24894.32
+Year 23: $25143.26
+Year 24: $25394.69
+Year 25: $25648.64
+Year 26: $25905.13
+Year 27: $26164.18
+Year 28: $26425.82
+Year 29: $26690.08
+Year 30: $26956.98
+Year 31: $27226.55
+Year 32: $27498.81
+Year 33: $27773.80
+Year 34: $28051.54
+Year 35: $28332.06
+Year 36: $28615.38
+Year 37: $28901.53
+Year 38: $29190.54
+Year 39: $29482.45
+Year 40: $29777.27
+Year 41: $30075.05
+Year 42: $30375.80
+Year 43: $30679.56
+Year 44: $30986.35
+Year 45: $31296.21
+Year 46: $31609.18
+Year 47: $31925.27
+Year 48: $32244.52
+Year 49: $32566.97
+Year 50: $32892.64
+Year 51: $33221.56
+Year 52: $33553.78
+Year 53: $33889.32
+Year 54: $34228.21
+Year 55: $34570.49
+Year 56: $34916.20
+Year 57: $35265.36
+Year 58: $35618.01
+Year 59: $35974.19
+Year 60: $36333.93
+Year 61: $36697.27
+Year 62: $37064.25
+Year 63: $37434.89
+Year 64: $37809.24
+Year 65: $38187.33
+Year 66: $38569.20
+Year 67: $38954.90
+Year 68: $39344.44
+Year 69: $39737.89
+Year 70: $40135.27
+Year 71: $40536.62
+Year 72: $40941.99
+Year 73: $41351.41
+Year 74: $41764.92
+Year 75: $42182.57
+Year 76: $42604.40
+Year 77: $43030.44
+Year 78: $43460.74
+Year 79: $43895.35
+Year 80: $44334.30
+Year 81: $44777.65
+Year 82: $45225.42
+Year 83: $45677.68
+Year 84: $46134.45
+Year 85: $46595.80
+Year 86: $47061.76
+Year 87: $47532.37
+Year 88: $48007.70
+Year 89: $48487.78
+Year 90: $48972.65
+Year 91: $49462.38
+Year 92: $49957.00
+Year 93: $50456.57
+Year 94: $50961.14
+Year 95: $51470.75
+Year 96: $51985.46
+Year 97: $52505.31
+Year 98: $53030.37
+Year 99: $53560.67
+Year 100: $54096.28

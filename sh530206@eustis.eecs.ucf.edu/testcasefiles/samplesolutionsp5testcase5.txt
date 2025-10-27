@@ -1,0 +1,78 @@
+----------------------------------------------------------------------
+Testing Test Case 5
+----------------------------------------------------------------------
+Choose a button.
+1. Blue Button
+2. Green Button
+3. Yellow Button
+4. Red Button
+5. Gold Button
+6. Black Button
+7. White Button
+Selection: Yellow Button Selected!
+No Match!
+Retrieving the Records from today's sale!
+Customer: 1	Spent: $23.92
+Customer: 2	Spent: $35.88
+Customer: 3	Spent: $5.98
+Customer: 4	Spent: $2.99
+Customer: 5	Spent: $2.99
+Customer: 6	Spent: $8.97
+Customer: 7	Spent: $8.97
+Customer: 8	Spent: $17.94
+Customer: 9	Spent: $32.89
+Customer: 10	Spent: $32.89
+Customer: 11	Spent: $41.86
+Customer: 12	Spent: $8.97
+Customer: 13	Spent: $5.98
+Customer: 14	Spent: $11.96
+Customer: 15	Spent: $14.95
+Customer: 16	Spent: $23.92
+Customer: 17	Spent: $23.92
+Customer: 18	Spent: $26.91
+Customer: 19	Spent: $17.94
+Customer: 20	Spent: $20.93
+-----------------------------
+$370.76 was made today.
+Number	Part A	Part B	Part C
+Enter a positive integer: 348	No!	Even	Composite
+Enter a positive integer: 238	Yes!	Even	Composite
+Enter a positive integer: 351	Yes!	Odd	Composite
+Enter a positive integer: 452	No!	Even	Composite
+Enter a positive integer: 26	Yes!	Even	Composite
+Enter a positive integer: 2	No!	Even	Prime
+Enter a positive integer: 223	No!	Odd	Prime
+Enter a positive integer: 58	No!	Even	Composite
+Enter a positive integer: 333	No!	Odd	Composite
+Enter a positive integer: 315	Yes!	Odd	Composite
+Enter a positive integer: 328	No!	Even	Composite
+Enter a positive integer: 7	Yes!	Odd	Prime
+Enter a positive integer: 307	No!	Odd	Prime
+Enter a positive integer: 458	No!	Even	Composite
+Enter a positive integer: 119	Yes!	Odd	Composite
+Enter a positive integer: 282	No!	Even	Composite
+Enter a positive integer: 247	Yes!	Odd	Composite
+Enter a positive integer: 398	No!	Even	Composite
+Enter a positive integer: 132	Yes!	Even	Composite
+Enter a positive integer: 500	No!	Even	Composite
+Enter a positive integer: 326	No!	Even	Composite
+Enter a positive integer: 10	No!	Even	Composite
+Enter a positive integer: 341	Yes!	Odd	Composite
+Enter a positive integer: 198	Yes!	Even	Composite
+Enter a positive integer: 406	Yes!	Even	Composite
+Enter a positive integer: 325	Yes!	Odd	Composite
+Enter a positive integer: 278	No!	Even	Composite
+Enter a positive integer: 92	No!	Even	Composite
+Enter a positive integer: 269	No!	Odd	Prime
+Enter a positive integer: 288	No!	Even	Composite
+Enter a positive integer: 212	No!	Even	Composite
+Enter a positive integer: 162	No!	Even	Composite
+Enter a positive integer: 434	Yes!	Even	Composite
+Enter a positive integer: 229	No!	Odd	Prime
+Enter a positive integer: 491	No!	Odd	Prime
+Enter a positive integer: 399	Yes!	Odd	Composite
+Enter a positive integer: 362	No!	Even	Composite
+Enter a positive integer: 35	Yes!	Odd	Composite
+Enter a positive integer: 453	No!	Odd	Composite
+Enter a positive integer: 222	No!	Even	Composite
+Enter a positive integer: 

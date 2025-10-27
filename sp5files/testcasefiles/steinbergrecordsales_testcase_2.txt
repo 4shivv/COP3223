@@ -1,0 +1,5 @@
+Customer: 1	Spent: $23.92
+Customer: 2	Spent: $35.88
+Customer: 3	Spent: $5.98
+-----------------------------
+$65.78 was made today.

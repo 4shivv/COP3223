@@ -1,0 +1,17 @@
+----------------------------------------------------------------------
+Testing Test Case 4
+----------------------------------------------------------------------
+Enter the price: Not Approved!
+Welcome to the University Admission System!
+Enter the GPA: Enter the test score: Invalid Input!
+Welcome to the Crazy Keypad!
+Select one of the following options for a message.
+Option 1
+Option 2
+Option 3
+Option 4
+Option 5
+Option Selected: Backup on the way...
+Welcome to Bruce's Carpentry Services!
+Would you like the sign made out of oak?
+Enter y for yes or n for no: Could not compute cost...

@@ -1,0 +1,30 @@
+----------------------------------------------------------------------
+Testing Test Case 1
+----------------------------------------------------------------------
+Enter a positive integer: Enter a positive integer: That's a negative number!
+Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: 3 even numbers were entered and the average is 9.333333
+4 odd numbers were entered and the average is 3.500000
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: *******
+**    *
+* *   *
+*  *  *
+*   * *
+*    **
+*******
+Welcome to the Toy Phone!
+Enter a button: Hello!
+Enter a button: Are you ready for pointers?
+Enter a button: Programming is fun!
+Enter a button: Loopy Loops!
+Enter a button: Semicolons can be a pain to forget!
+Enter a button: Invalid option.
+Enter a button: Are you ready for pointers?
+Enter a button: Goodbye!
+Enter the number years to observe: Enter the percentage rate to increase by per year: Invalid input.
+Enter the number years to observe: Enter the percentage rate to increase by per year: Invalid input.
+Enter the number years to observe: Enter the percentage rate to increase by per year: Current Tuition: $20000.00
+Year 1: $20400.00
+Year 2: $20808.00
+Year 3: $21224.16
+Year 4: $21648.64

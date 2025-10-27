@@ -1,0 +1,25 @@
+----------------------------------------------------------------------
+Testing Test Case 1
+----------------------------------------------------------------------
+Choose a button.
+1. Blue Button
+2. Green Button
+3. Yellow Button
+4. Red Button
+5. Gold Button
+6. Black Button
+7. White Button
+Selection: Red Button Selected!
+Match!
+Retrieving the Records from today's sale!
+Customer: 1	Spent: $8.97
+Customer: 2	Spent: $14.95
+Customer: 3	Spent: $20.93
+-----------------------------
+$44.85 was made today.
+Number	Part A	Part B	Part C
+Enter a positive integer: 10	No!	Even	Composite
+Enter a positive integer: 101	No!	Odd	Prime
+Enter a positive integer: 56	Yes!	Even	Composite
+Enter a positive integer: 89	No!	Odd	Prime
+Enter a positive integer: 

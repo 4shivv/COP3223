@@ -1,0 +1,36 @@
+----------------------------------------------------------------------
+Testing Test Case 2
+----------------------------------------------------------------------
+Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: 6 even numbers were entered and the average is 7.000000
+6 odd numbers were entered and the average is 6.000000
+How many rows would you like the shape to have?: ************
+**         *
+* *        *
+*  *       *
+*   *      *
+*    *     *
+*     *    *
+*      *   *
+*       *  *
+*        * *
+*         **
+************
+Welcome to the Toy Phone!
+Enter a button: Hello!
+Enter a button: Loopy Loops!
+Enter a button: Programming is fun!
+Enter a button: Semicolons can be a pain to forget!
+Enter a button: Are you ready for pointers?
+Enter a button: Goodbye!
+Enter the number years to observe: Enter the percentage rate to increase by per year: Invalid input.
+Enter the number years to observe: Enter the percentage rate to increase by per year: Current Tuition: $20000.00
+Year 1: $21400.00
+Year 2: $22898.00
+Year 3: $24500.86
+Year 4: $26215.92
+Year 5: $28051.03
+Year 6: $30014.61
+Year 7: $32115.63
+Year 8: $34363.72
+Year 9: $36769.18
+Year 10: $39343.03

@@ -1,0 +1,12 @@
+Number	Part A	Part B	Part C
+12	No!	Even	Composite
+3	No!	Odd	Prime
+412	No!	Even	Composite
+35	Yes!	Odd	Composite
+7	Yes!	Odd	Prime
+1239	Yes!	Odd	Composite
+58	No!	Even	Composite
+234	Yes!	Even	Composite
+603	No!	Odd	Composite
+7	Yes!	Odd	Prime
+123	No!	Odd	Composite

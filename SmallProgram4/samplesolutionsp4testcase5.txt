@@ -1,0 +1,180 @@
+----------------------------------------------------------------------
+Testing Test Case 5
+----------------------------------------------------------------------
+Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: 8 even numbers were entered and the average is 197.750000
+8 odd numbers were entered and the average is 145.750000
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: ***************************************************************
+**                                                            *
+* *                                                           *
+*  *                                                          *
+*   *                                                         *
+*    *                                                        *
+*     *                                                       *
+*      *                                                      *
+*       *                                                     *
+*        *                                                    *
+*         *                                                   *
+*          *                                                  *
+*           *                                                 *
+*            *                                                *
+*             *                                               *
+*              *                                              *
+*               *                                             *
+*                *                                            *
+*                 *                                           *
+*                  *                                          *
+*                   *                                         *
+*                    *                                        *
+*                     *                                       *
+*                      *                                      *
+*                       *                                     *
+*                        *                                    *
+*                         *                                   *
+*                          *                                  *
+*                           *                                 *
+*                            *                                *
+*                             *                               *
+*                              *                              *
+*                               *                             *
+*                                *                            *
+*                                 *                           *
+*                                  *                          *
+*                                   *                         *
+*                                    *                        *
+*                                     *                       *
+*                                      *                      *
+*                                       *                     *
+*                                        *                    *
+*                                         *                   *
+*                                          *                  *
+*                                           *                 *
+*                                            *                *
+*                                             *               *
+*                                              *              *
+*                                               *             *
+*                                                *            *
+*                                                 *           *
+*                                                  *          *
+*                                                   *         *
+*                                                    *        *
+*                                                     *       *
+*                                                      *      *
+*                                                       *     *
+*                                                        *    *
+*                                                         *   *
+*                                                          *  *
+*                                                           * *
+*                                                            **
+***************************************************************
+Welcome to the Toy Phone!
+Enter a button: Invalid option.
+Enter a button: Hello!
+Enter a button: Goodbye!
+Enter the number years to observe: Enter the percentage rate to increase by per year: Current Tuition: $20000.00
+Year 1: $20600.00
+Year 2: $21218.00
+Year 3: $21854.54
+Year 4: $22510.18
+Year 5: $23185.48
+Year 6: $23881.05
+Year 7: $24597.48
+Year 8: $25335.40
+Year 9: $26095.46
+Year 10: $26878.33
+Year 11: $27684.68
+Year 12: $28515.22
+Year 13: $29370.67
+Year 14: $30251.79
+Year 15: $31159.35
+Year 16: $32094.13
+Year 17: $33056.95
+Year 18: $34048.66
+Year 19: $35070.12
+Year 20: $36122.22
+Year 21: $37205.89
+Year 22: $38322.07
+Year 23: $39471.73
+Year 24: $40655.88
+Year 25: $41875.56
+Year 26: $43131.83
+Year 27: $44425.78
+Year 28: $45758.55
+Year 29: $47131.31
+Year 30: $48545.25
+Year 31: $50001.61
+Year 32: $51501.66
+Year 33: $53046.70
+Year 34: $54638.11
+Year 35: $56277.25
+Year 36: $57965.57
+Year 37: $59704.53
+Year 38: $61495.67
+Year 39: $63340.54
+Year 40: $65240.76
+Year 41: $67197.98
+Year 42: $69213.92
+Year 43: $71290.34
+Year 44: $73429.05
+Year 45: $75631.92
+Year 46: $77900.87
+Year 47: $80237.90
+Year 48: $82645.04
+Year 49: $85124.39
+Year 50: $87678.12
+Year 51: $90308.46
+Year 52: $93017.72
+Year 53: $95808.25
+Year 54: $98682.50
+Year 55: $101642.97
+Year 56: $104692.26
+Year 57: $107833.03
+Year 58: $111068.02
+Year 59: $114400.06
+Year 60: $117832.06
+Year 61: $121367.02
+Year 62: $125008.03
+Year 63: $128758.28
+Year 64: $132621.02
+Year 65: $136599.65
+Year 66: $140697.64
+Year 67: $144918.57
+Year 68: $149266.13
+Year 69: $153744.11
+Year 70: $158356.44
+Year 71: $163107.13
+Year 72: $168000.35
+Year 73: $173040.36
+Year 74: $178231.57
+Year 75: $183578.51
+Year 76: $189085.87
+Year 77: $194758.44
+Year 78: $200601.20
+Year 79: $206619.23
+Year 80: $212817.81
+Year 81: $219202.35
+Year 82: $225778.42
+Year 83: $232551.77
+Year 84: $239528.32
+Year 85: $246714.17
+Year 86: $254115.60
+Year 87: $261739.06
+Year 88: $269591.24
+Year 89: $277678.97
+Year 90: $286009.34
+Year 91: $294589.62
+Year 92: $303427.31
+Year 93: $312530.13
+Year 94: $321906.03
+Year 95: $331563.22
+Year 96: $341510.11
+Year 97: $351755.42
+Year 98: $362308.08
+Year 99: $373177.32
+Year 100: $384372.64
+Year 101: $395903.82

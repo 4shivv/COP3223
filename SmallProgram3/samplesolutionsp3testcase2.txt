@@ -1,0 +1,19 @@
+----------------------------------------------------------------------
+Testing Test Case 2
+----------------------------------------------------------------------
+Enter the price: Approved!
+Welcome to the University Admission System!
+Enter the GPA: Enter the test score: Admissions is Approved!
+Consider for Scholarship Award!
+Welcome to the Crazy Keypad!
+Select one of the following options for a message.
+Option 1
+Option 2
+Option 3
+Option 4
+Option 5
+Option Selected: Opening Vault 712...
+Welcome to Bruce's Carpentry Services!
+Would you like the sign made out of oak?
+Enter y for yes or n for no: Enter the number of characters on the sign: Would you like gold-leaf lettering?
+Enter y for yes or n for no: Bruce will charge $45.00.

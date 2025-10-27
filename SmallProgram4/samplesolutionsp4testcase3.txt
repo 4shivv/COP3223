@@ -1,0 +1,63 @@
+----------------------------------------------------------------------
+Testing Test Case 3
+----------------------------------------------------------------------
+Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: Enter a positive integer: That's a negative number!
+Enter a positive integer: 4 even numbers were entered and the average is 5.000000
+0 odd numbers were entered and the average is 0.000000
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: Invalid Input. Please try again.
+How many rows would you like the shape to have?: *****************
+**              *
+* *             *
+*  *            *
+*   *           *
+*    *          *
+*     *         *
+*      *        *
+*       *       *
+*        *      *
+*         *     *
+*          *    *
+*           *   *
+*            *  *
+*             * *
+*              **
+*****************
+Welcome to the Toy Phone!
+Enter a button: Hello!
+Enter a button: Hello!
+Enter a button: Loopy Loops!
+Enter a button: Hello!
+Enter a button: Programming is fun!
+Enter a button: Invalid option.
+Enter a button: Hello!
+Enter a button: Invalid option.
+Enter a button: Invalid option.
+Enter a button: Are you ready for pointers?
+Enter a button: Are you ready for pointers?
+Enter a button: Are you ready for pointers?
+Enter a button: Programming is fun!
+Enter a button: Hello!
+Enter a button: Goodbye!
+Enter the number years to observe: Enter the percentage rate to increase by per year: Invalid input.
+Enter the number years to observe: Enter the percentage rate to increase by per year: Current Tuition: $20000.00
+Year 1: $21000.00
+Year 2: $22050.00
+Year 3: $23152.50
+Year 4: $24310.12
+Year 5: $25525.63
+Year 6: $26801.91
+Year 7: $28142.01
+Year 8: $29549.11
+Year 9: $31026.56
+Year 10: $32577.89
+Year 11: $34206.79
+Year 12: $35917.13
+Year 13: $37712.98
+Year 14: $39598.63
+Year 15: $41578.56
+Year 16: $43657.49
+Year 17: $45840.37
+Year 18: $48132.38
+Year 19: $50539.00
+Year 20: $53065.95

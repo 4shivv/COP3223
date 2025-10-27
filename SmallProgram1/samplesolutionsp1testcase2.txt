@@ -1,0 +1,24 @@
+----------------------------------------------------------------------
+Testing Test Case 2
+----------------------------------------------------------------------
+--          --
+--          --
+--          --
+--          --
+--------------
+--------------
+--          --
+--          --
+--          --
+--          --
+Enter the amount of eggs laid for each of the 5 chickens.
+Chicken 1: Chicken 2: Chicken 3: Chicken 4: Chicken 5: There are 5 dozen(s) and 1 egg(s) total.
+Let's calculate simple interest for an amount based on a duration of 5 years
+with a rate of interest equal to 12.5%.
+Enter the amount: The interest for a principal amount of $726410.00 is $454006.25.
+The total balance will be $1180416.25.
+Let's calculate the area of the 2D car drawing.
+Let's start with the 4 circles.
+Enter the radius: Now lets get the info on the parallelogram.
+Enter the base: Enter the height: Last, lets enter the information on the triangle.
+Enter the base: Enter the height: The area of the 2D car is 25959.89520 units.

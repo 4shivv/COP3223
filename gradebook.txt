@@ -1,0 +1,8 @@
+Name: Harry Potter
+Homework: 0.00%   Quiz: 0.00%   Exam: 0.00%
+Weighted Avg: 0.00%
+
+Name: Harry Potter
+Homework: 90.00%   Quiz: 90.00%   Exam: 80.00%
+Weighted Avg: 8700.00%
+
